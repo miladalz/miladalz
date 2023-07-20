@@ -4,8 +4,7 @@
 - In the past, I have worked on projects utilizing Microsoft dynamics ax, Oracle BPM, Java, and Oracle ADF. 
 - In addition to my skills in coding, I am skilled in conducting technical analysis as well as project management and documentation. 
 - Software Developer | .NET Developer | Android Developer
-- 📫 How to reach me: linkedin.com/in/alizadehmilad
-
+- 📫 How to reach me: https://www.linkedin.com/in/alizadehmilad/
 <!---
 miladalz/miladalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
